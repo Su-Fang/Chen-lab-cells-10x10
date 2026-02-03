@@ -1,0 +1,6 @@
+.DS_Store
+.vscode/
+__pycache__/
+*.csv
+*.xlsx
+clean_chen_data.py
